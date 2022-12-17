@@ -1,0 +1,8 @@
+#!/bin/bash
+
+curl -s --user 'api:key-26ed8d792fb56983f3d0f65c8ed18487' \
+      https://api.mailgun.net/v3/sandboxae2893df622b4453980b0dcaebe136dc.mailgun.org/messages \
+      -F from='Excited User <mailgun@sandboxae2893df622b4453980b0dcaebe136dc.mailgun.org>' \
+      -F to=madel.asistio@gmail.com \
+      -F subject='Hello' \
+      -F text='Testing some Mailgun awesomness!'

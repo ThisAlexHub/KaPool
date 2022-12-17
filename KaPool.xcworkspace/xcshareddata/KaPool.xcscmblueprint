@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "224CBD0F4B14D85424775551153D016A48617217",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "224CBD0F4B14D85424775551153D016A48617217" : 9223372036854775807,
+    "30D6D96E6C21D72E6BA5B62C5E364C7304DD389C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "230E422E-C7CC-4031-89EC-142293B5DFF1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "224CBD0F4B14D85424775551153D016A48617217" : "ride-share-app\/",
+    "30D6D96E6C21D72E6BA5B62C5E364C7304DD389C" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KaPool",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "KaPool.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KaPool-iOS\/ride-share-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "224CBD0F4B14D85424775551153D016A48617217"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KaPool-iOS\/ride-share-app",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "30D6D96E6C21D72E6BA5B62C5E364C7304DD389C"
+    }
+  ]
+}
